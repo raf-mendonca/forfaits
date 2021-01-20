@@ -1,0 +1,23 @@
+{
+  "name": "forfaits",
+  "version": "1.0.0",
+  "description": "API forfaits pour le projet App Voyages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raf-mendonca/forfaits.git"
+  },
+  "keywords": [],
+  "author": "Rafael De Mendonça",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raf-mendonca/forfaits/issues"
+  },
+  "homepage": "https://github.com/raf-mendonca/forfaits#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
