@@ -1,0 +1,257 @@
+{
+  "forfaits": [
+    {
+      "id": 1,
+      "destination": "Rio de Janeiro, Brésil",
+      "depart": "Québec",
+      "hotel": {
+        "nom": "Belmont Copacabana Palace",
+        "adresse": "R. Domingos Ferreira, 242 - Copacabana, Rio de Janeiro - RJ, 22050-012, Brasil",
+        "starRating": 5,
+        "nbrChambres": 100,
+        "photo": "https://belmondcdn.azureedge.net/assets/photos/cop/2580x1299/cop-ext07_2580x1299.jpg",
+        "caracteristiques": [
+          "Face à la plage",
+          "Spa",
+          "Piscine",
+          "Coiffeur",
+          "Garderie 24h",
+          "Réalisation de mariages",
+          "3 restaurants",
+          "Excursion Rio",
+          "WiFi: tout le complex"
+        ]
+      },
+      "prix": 5600,
+      "rabais": 500,
+      "dateDepart": "01 Janvier 2021",
+      "dateRetour": "15 Janvier 2021",
+      "forfaitVedette": true
+    },
+    {
+      "id": 2,
+      "destination": "Angra dos Reis, Brésil",
+      "depart": "Montréal",
+      "hotel": {
+        "nom": "Fasano Angra dos Reis",
+        "adresse": "Rod. Gov. Mário Covas, Km 512 - Porto Frade, Angra dos Reis - RJ, 23946-017, Brasil",
+        "starRating": 4,
+        "nbrChambres": 40,
+        "photo": "https://robbreport.com/wp-content/uploads/2017/06/the-spot-beach-club-frade_hotel-fasano-angra-dos-reis.jpg",
+        "caracteristiques": [
+          "Face à la plage",
+          "Spa",
+          "Piscine",
+          "Haute cuisine",
+          "Garderie 24h",
+          "6 restaurants",
+          "Randonnée Serra do Mar",
+          "Centre fitness",
+          "Excursion Baya de Angra",
+          "WiFi: tout le complex"
+        ]
+      },
+      "prix": 2000,
+      "rabais": 0,
+      "dateDepart": "31 Décembre 2020",
+      "dateRetour": "07 Janvier 2021",
+      "forfaitVedette": false
+    },
+    {
+      "id": 3,
+      "destination": "Rio de Janeiro, Brésil",
+      "depart": "Québec",
+      "hotel": {
+        "nom": "Fasano Rio de Janeiro",
+        "adresse": "Av. Vieira Souto, 80 - Ipanema, Rio de Janeiro - RJ, 22420-002, Brasil",
+        "starRating": 5,
+        "nbrChambres": 100,
+        "photo": "https://images.trvl-media.com/hotels/2000000/1550000/1542100/1542064/1d29f11d.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium",
+        "caracteristiques": [
+          "Face à la plage",
+          "Spa Fasano",
+          "Piscine rooftop",
+          "Haute cuisine",
+          "Garderie 24h",
+          "3 restaurants",
+          "Randonnée Serra do Mar",
+          "Centre fitness",
+          "Excursion Rio",
+          "WiFi: tout le complex"
+        ]
+      },
+      "prix": 2000,
+      "rabais": 400,
+      "dateDepart": "01 Janvier 2021",
+      "dateRetour": "15 Janvier 2021",
+      "forfaitVedette": true
+    },
+    {
+      "id": 4,
+      "destination": "Salvador, Brésil",
+      "depart": "Québec",
+      "hotel": {
+        "nom": "Fasano Salvador",
+        "adresse": "Praça Castro Alves, 5 - Centro, Salvador - BA, 40020-160, Brasil",
+        "starRating": 5,
+        "nbrChambres": 60,
+        "photo": "https://www.fasano.com.br/library/uploads/experiences/videos/i9QOsbQrc6Rx20200129180928.jpg",
+        "caracteristiques": [
+          "Face à la baie",
+          "Spa Fasano",
+          "Piscine rooftop",
+          "Haute cuisine",
+          "Garderie 24h",
+          "2 restaurants",
+          "Excursion Vieux Salvador",
+          "Excursion Baia de todos os Santos",
+          "WiFi: tout le complex"
+        ]
+      },
+      "prix": 2000,
+      "rabais": 0,
+      "dateDepart": "01 Janvier 2021",
+      "dateRetour": "07 Janvier 2021",
+      "forfaitVedette": false
+    },
+    {
+      "id": 5,
+      "destination": "Archipel Fernando de Noronha, Brésil",
+      "depart": "Montreal",
+      "hotel": {
+        "nom": "Parc National Hotel ",
+        "adresse": "Porto dos Pescadores, Fernaldo de Noronha, Brasil",
+        "starRating": 3,
+        "nbrChambres": 15,
+        "photo": "https://cdn.theculturetrip.com/wp-content/uploads/2020/08/wp32gbwen.jpg",
+        "caracteristiques": [
+          "Face à la plage",
+          "2 restaurants",
+          "Excursion caïac",
+          "Randonée parc national",
+          "Plongée sous-marine",
+          "Pas de wifi"
+        ]
+      },
+      "prix": 2000,
+      "rabais": 500,
+      "dateDepart": "01 Janvier 2021",
+      "dateRetour": "07 Janvier 2021",
+      "forfaitVedette": true
+    },
+    {
+      "id": 6,
+      "destination": "Barra de Sao Miguel, Ceara, Brésil",
+      "depart": "Québec",
+      "hotel": {
+        "nom": "Kenoa Resort",
+        "adresse": "R. Escritor Jorge de Lima, 58 - Barra Mar, Barra de São Miguel - AL, 57180-000, Brasil",
+        "starRating": 5,
+        "nbrChambres": 60,
+        "photo": "https://cf.bstatic.com/images/hotel/max1024x768/251/251652077.jpg",
+        "caracteristiques": [
+          "Face à la plage",
+          "Spa",
+          "Piscine privée",
+          "Haute cuisine",
+          "Garderie 24h",
+          "7 restaurants",
+          "Centre fitness",
+          "Plongée sous-marine",
+          "Excursion boat experience",
+          "WiFi: tout le complex"
+        ]
+      },
+      "prix": 6000,
+      "rabais": 0,
+      "dateDepart": "15 Janvier 2021",
+      "dateRetour": "22 Janvier 2021",
+      "forfaitVedette": false
+    },
+    {
+      "id": 7,
+      "destination": "Itacaré, Brésil",
+      "depart": "Québec",
+      "hotel": {
+        "nom": "Txai Resorts",
+        "adresse": "R. Escritor Jorge de Lima, 58 - Barra Mar, Barra de São Miguel - AL, 57180-000, Brasil",
+        "starRating": 4,
+        "nbrChambres": 60,
+        "photo": "https://cdn.kiwicollection.com/media/property/PR004756/xl/004756-52-Piscina%20Ala%20Sul.jpg?cb=1464110548",
+        "caracteristiques": [
+          "Face à la plage",
+          "Spa shamash",
+          "Piscine",
+          "Haute cuisine",
+          "Garderie",
+          "Miniclub",
+          "3 restaurants",
+          "Excursion boat experience",
+          "WiFi: tout le complex"
+        ]
+      },
+      "prix": 3000,
+      "rabais": 0,
+      "dateDepart": "15 Janvier 2021",
+      "dateRetour": "22 Janvier 2021",
+      "forfaitVedette": false
+    },
+    {
+      "id": 8,
+      "destination": "Rio de Janeiro, Brésil",
+      "depart": "Québec",
+      "hotel": {
+        "nom": "Fairmont Copacabana Rio",
+        "adresse": "Av. Atlântica, 4240 - Copacabana, Rio de Janeiro - RJ, 22070-002, Brasil",
+        "starRating": 5,
+        "nbrChambres": 100,
+        "photo": "https://www.ahstatic.com/photos/1988_ho_00_p_1024x768.jpg",
+        "caracteristiques": [
+          "Face à la plage",
+          "Spa shamash",
+          "Piscine",
+          "Haute cuisine",
+          "Baby-sitter",
+          "Miniclub",
+          "3 restaurants",
+          "2 bars",
+          "Chauffeur",
+          "Excursion Rio marin"
+        ]
+      },
+      "prix": 4000,
+      "rabais": 0,
+      "dateDepart": "22 Janvier 2021",
+      "dateRetour": "02 février 2021",
+      "forfaitVedette": false
+    },
+    {
+      "destination": "Itacaré, Brésil",
+      "depart": "Québec",
+      "hotel": {
+        "nom": "Itacaré Eco Resort",
+        "adresse": "R. Escritor Jorge Amado, Brasil",
+        "starRating": 4,
+        "nbrChambres": 30,
+        "photo": "https://www.discoverbrazil.com/wp-content/uploads/2018/10/itacare-eco-resort-01-1200x720.jpg",
+        "caracteristiques": [
+          "Face à la plage",
+          "Spa shamash",
+          "Piscine",
+          "Haute cuisine",
+          "Garderie",
+          "Miniclub",
+          "3 restaurants",
+          "Excursion boat experience",
+          "WiFi: tout le complex"
+        ]
+      },
+      "prix": 3000,
+      "rabais": 0,
+      "dateDepart": "15 Janvier 2021",
+      "dateRetour": "22 Janvier 2021",
+      "forfaitVedette": false,
+      "id": 9
+    }
+  ]
+}
